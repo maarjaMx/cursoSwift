@@ -47,6 +47,7 @@
 		149D5DD51BF9546C004889EF /* pruebaGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pruebaGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		149D5DD91BF9546C004889EF /* pruebaGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pruebaGitUITests.swift; sourceTree = "<group>"; };
 		149D5DDB1BF9546C004889EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		149D5DE71BF95CB2004889EF /* JuegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = JuegoDeMemoria.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		149D5DAD1BF9546C004889EF = {
 			isa = PBXGroup;
 			children = (
+				149D5DE71BF95CB2004889EF /* JuegoDeMemoria.playground */,
 				149D5DB81BF9546C004889EF /* pruebaGit */,
 				149D5DCD1BF9546C004889EF /* pruebaGitTests */,
 				149D5DD81BF9546C004889EF /* pruebaGitUITests */,
@@ -484,6 +486,7 @@
 				149D5DE01BF9546C004889EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		149D5DE11BF9546C004889EF /* Build configuration list for PBXNativeTarget "pruebaGitTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +495,7 @@
 				149D5DE31BF9546C004889EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		149D5DE41BF9546C004889EF /* Build configuration list for PBXNativeTarget "pruebaGitUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +504,7 @@
 				149D5DE61BF9546C004889EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
